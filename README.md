@@ -34,7 +34,7 @@ Similar to the registration page, it collects user email and password for login.
 
 If the form is submitted, it destroys any existing sessions (logout) and redirects to the login page.
 
-# User Dashboard (dashboard.php):
+# User Dashboard (index.php):
 
 **Session Handling:**
 Checks if a user is not logged in (if (!isset($_SESSION["user"]))), it redirects them to the login page.
