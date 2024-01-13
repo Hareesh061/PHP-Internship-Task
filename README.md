@@ -48,3 +48,30 @@ Includes a logout button that links to a logout script.
 
 Defines database connection parameters such as hostname, database user, password, and database name.
 Connects to the database using mysqli_connect()
+
+
+EX:
+
+
+<img width="960" alt="image" src="https://github.com/Hareesh061/PHP-Internship-Task/assets/90563881/a4a0f9ea-b942-45ab-ae2c-f50f75d9904e">
+
+
+<img width="960" alt="image" src="https://github.com/Hareesh061/PHP-Internship-Task/assets/90563881/1d9e3b60-4c6b-421f-83c8-d600301d8276">
+
+
+<img width="960" alt="image" src="https://github.com/Hareesh061/PHP-Internship-Task/assets/90563881/d1c1d800-cd7f-4376-8107-d405340596af">
+
+<img width="958" alt="image" src="https://github.com/Hareesh061/PHP-Internship-Task/assets/90563881/fe809195-07cd-4485-bffc-61b6077f69f2">
+
+<img width="960" alt="image" src="https://github.com/Hareesh061/PHP-Internship-Task/assets/90563881/c356da68-1a26-46cc-a330-a31979bb4680">
+
+<img width="959" alt="image" src="https://github.com/Hareesh061/PHP-Internship-Task/assets/90563881/3e14a0e5-4424-474e-b37a-45f75e66fbf8">
+
+
+# happy coding,keep learning..!
+ 
+
+
+
+
+
